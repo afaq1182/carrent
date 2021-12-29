@@ -20,8 +20,8 @@ function SendEmail() {
   //console.log("afaq hash : " + checkhash);
   // console.log("afaq token : " + token);
   var mailOptions = {
-    from: "afaqshah1182@gmail.com",
-    to: "afaqshah79@gmail.com",
+    from: "",
+    to: "",
     subject: "Sending Email using Node.js",
     text: "This is a verification Email Please Click on the Given Link to verify Your email",
     html:
